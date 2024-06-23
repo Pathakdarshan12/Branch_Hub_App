@@ -1,6 +1,6 @@
 # BranchHub Inventory Management App
 
-<img src="" style="height:100px; width=100px">
+<img src="https://github.com/Pathakdarshan12/Branch_Hub_App/blob/main/assets/logo2.png" style="height:100px; width=100px">
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -102,11 +102,30 @@ branchhub-inventory/
 ```
 
 ## Screenshots
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](https://github.com/Pathakdarshan12/Branch_Hub_App/blob/main/screenshots/main_page.png)
 *Main Screen*
 
-![Add Item](screenshots/add_item.png)
-*Add Item Form*
+![Update Management](https://github.com/Pathakdarshan12/Branch_Hub_App/blob/main/screenshots/update_management.png)
+*Update Management Form*
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
+## Contact
+<p align="left">
+<a href="https://www.linkedin.com/in/pathakdarshan12/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://x.com/_Pathak_Darshan" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/pathakdarshan12/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+<a href="mailto:pathakdarshan12@gmail.com" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="30" width="40" />
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=Pathakdarshan12&style=plastic)
