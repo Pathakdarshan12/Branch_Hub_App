@@ -1,6 +1,8 @@
 # BranchHub Inventory Management App
 
-<img src="https://github.com/Pathakdarshan12/Branch_Hub_App/blob/main/assets/logo2.png" style="height:200px; width=200px">
+<p align="center">
+    <img src="screenshots/Branch_Hub.png" width="90%">
+</p>
 
 ## Table of Contents
 1. [Introduction](#introduction)
